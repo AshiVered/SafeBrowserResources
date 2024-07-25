@@ -221,3 +221,4 @@ my.gov.il
 login.gov.il
 harhamor.co.il
 apk.shnet.app
+hayeyolam.harhamor.co.il
