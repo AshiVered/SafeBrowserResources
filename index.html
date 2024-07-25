@@ -47,38 +47,30 @@
             cursor: pointer;
             transition: all 0.3s ease;
             overflow: hidden; /* למנוע טקסט או תוכן יוצא מגבולות הקוביה */
+            text-decoration: none; /* ביטול הקו התחתון של הקישור */
+            color: #6a1b9a; /* צבע טקסט סגול כהה */
+            font-size: 1.5em; /* הגדלת גודל הטקסט */
+            font-weight: 500;
         }
         .grid-item:hover {
             box-shadow: 0 12px 24px rgba(0, 0, 0, 0.3); /* צללים חזקים עוד יותר בהעברה */
             background-color: #f3e5f5; /* צבע רקע בהיר עם גוון סגול */
-        }
-        .grid-item a {
-            color: #6a1b9a; /* צבע טקסט סגול כהה */
-            text-decoration: none;
-            font-size: 1.5em; /* הגדלת גודל הטקסט */
-            font-weight: 500;
-            transition: color 0.3s ease;
-        }
-        .grid-item a:hover {
             color: #4a148c; /* צבע טקסט סגול כהה יותר בהעברה */
-        }
-        .grid-item:nth-child(10) {
-            grid-column: 1 / 3; /* מתיחה על כל העמודות */
         }
     </style>
 </head>
 <body>
     <div class="grid-wrapper">
         <div class="grid-container">
-            <div class="grid-item"><a href="./kupotholim.html">קופות חולים</a></div>
-            <div class="grid-item"><a href="./banks.html">בנקים</a></div>
-            <div class="grid-item"><a href="./payments.html">תשלומים</a></div>
-            <div class="grid-item"><a href="./transportation.html">תחבורה</a></div>
-            <div class="grid-item"><a href="./gov.html">אתרי ממשלה</a></div>
-            <div class="grid-item"><a href="./torani.html">תורני</a></div>
-            <div class="grid-item"><a href="./forums.html">פורומים</a></div>
-            <div class="grid-item"><a href="./news.html">חדשות</a></div>
-            <div class="grid-item"><a href="./others.html">שונות</a></div>
+            <a class="grid-item" href="./kupotholim.html">קופות חולים</a>
+            <a class="grid-item" href="./banks.html">בנקים</a>
+            <a class="grid-item" href="./payments.html">תשלומים</a>
+            <a class="grid-item" href="./transportation.html">תחבורה</a>
+            <a class="grid-item" href="./gov.html">אתרי ממשלה</a>
+            <a class="grid-item" href="./torani.html">תורני</a>
+            <a class="grid-item" href="./forums.html">פורומים</a>
+            <a class="grid-item" href="./news.html">חדשות</a>
+            <a class="grid-item" href="./others.html">שונות</a>
         </div>
     </div>
 </body>
