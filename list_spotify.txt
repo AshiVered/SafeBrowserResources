@@ -20,3 +20,4 @@ exp.wg.spotify.com
 guc3-spclient.spotify.com
 guce.spotify.com
 spotilocal.com
+www.spotify.com
