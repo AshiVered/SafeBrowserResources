@@ -3,8 +3,6 @@ www.accounts.google.com
 www.account.gov.il
 www.accounts.google.ps
 www.18.224.129.23
-www.192.168.1.1
-www.192.168.1.70
 www.api.buya.co.il
 www.api.mapbox.com
 www.api.w.org
@@ -207,8 +205,6 @@ accounts.google.com
 account.gov.il
 accounts.google.ps
 18.224.129.23
-192.168.1.1
-192.168.1.70
 api.buya.co.il
 api.mapbox.com
 api.w.org
@@ -416,3 +412,5 @@ inn.co.il
 www.inn.co.il
 bahazit.co.il
 www.bahazit.co.il
+www.02ws.co.il
+02ws.co.il
