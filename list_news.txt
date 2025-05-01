@@ -19,7 +19,6 @@ www.bankmassad.co.il
 www.bankotsar.co.il
 www.bank-yahav.co.il
 www.besodh.com
-www.bm-roshpina.co.il
 www.bneidavid.org
 www.bneidavidmp3.media-line.co.il
 www.btl.gov.il
@@ -221,7 +220,6 @@ bankmassad.co.il
 bankotsar.co.il
 bank-yahav.co.il
 besodh.com
-bm-roshpina.co.il
 bneidavid.org
 bneidavidmp3.media-line.co.il
 btl.gov.il
@@ -414,3 +412,5 @@ bahazit.co.il
 www.bahazit.co.il
 www.02ws.co.il
 02ws.co.il
+bm-roshpina.i-visual.co.il
+www.bm-roshpina.i-visual.co.il
