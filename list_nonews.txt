@@ -423,4 +423,5 @@ mishnatyosef.org
 mishna-yom.com
 yad14.co.il
 www.themercava.com
-one.prat.idf.il/
+one.prat.idf.il
+login.microsoftonline.com
