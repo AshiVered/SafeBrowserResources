@@ -215,6 +215,7 @@ autozoom3125.pythonanywhere.com
 awswaf.com
 bankhadoar.co.il
 bankhapoalim.co.il
+login.bankhapoalim.co.il
 bankleumi.co.il
 bankmassad.co.il
 bankotsar.co.il
