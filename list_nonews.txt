@@ -428,3 +428,5 @@ one.prat.idf.il
 login.microsoftonline.com
 tablet.otzar.org
 www.tablet.otzar.org
+rechavimzelaze.ovh
+www.rechavimzelaze.ovh
