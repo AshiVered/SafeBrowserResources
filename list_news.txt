@@ -434,3 +434,5 @@ yad14.co.il
 www.themercava.com
 one.prat.idf.il
 login.microsoftonline.com
+tablet.otzar.org
+www.tablet.otzar.org
