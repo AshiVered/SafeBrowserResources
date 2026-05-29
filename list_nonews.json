@@ -1704,7 +1704,163 @@
     "host": "one.prat.idf.il"
   },
   {
-    "name": "Site 435",
+  "name": "Site 435",
+  "host": "rechavimzelaze.ovh"
+},
+{
+  "name": "Site 436",
+  "host": "www.rechavimzelaze.ovh"
+},
+{
+  "name": "Site 437",
+  "host": "rimon.net.il"
+},
+{
+  "name": "Site 438",
+  "host": "www.rimon.net.il"
+},
+{
+  "name": "Site 439",
+  "host": "etrog.net.il"
+},
+{
+  "name": "Site 440",
+  "host": "www.etrog.net.il"
+},
+{
+  "name": "Site 441",
+  "host": "enativ.com"
+},
+{
+  "name": "Site 442",
+  "host": "www.enativ.com"
+},
+{
+  "name": "Site 443",
+  "host": "nativcell.co.il"
+},
+{
+  "name": "Site 444",
+  "host": "www.nativcell.co.il"
+},
+{
+  "name": "Site 445",
+  "host": "hadran.net"
+},
+{
+  "name": "Site 446",
+  "host": "www.hadran.net"
+},
+{
+  "name": "Site 447",
+  "host": "efod.co"
+},
+{
+  "name": "Site 448",
+  "host": "www.efod.co"
+},
+{
+  "name": "Site 449",
+  "host": "askan.co.il"
+},
+{
+  "name": "Site 450",
+  "host": "www.askan.co.il"
+},
+{
+  "name": "Site 451",
+  "host": "kosherplay.com"
+},
+{
+  "name": "Site 452",
+  "host": "www.kosherplay.com"
+},
+{
+  "name": "Site 453",
+  "host": "sifreiorhachaim.co.il"
+},
+{
+  "name": "Site 454",
+  "host": "www.sifreiorhachaim.co.il"
+},
+{
+  "name": "Site 455",
+  "host": "hbooks.co.il"
+},
+{
+  "name": "Site 456",
+  "host": "www.hbooks.co.il"
+},
+{
+  "name": "Site 457",
+  "host": "sefer.org.il"
+},
+{
+  "name": "Site 458",
+  "host": "www.sefer.org.il"
+},
+{
+  "name": "Site 459",
+  "host": "kibushnow.co.il"
+},
+{
+  "name": "Site 460",
+  "host": "www.kibushnow.co.il"
+},
+{
+  "name": "Site 461",
+  "host": "your-books.shop"
+},
+{
+  "name": "Site 462",
+  "host": "www.your-books.shop"
+},
+{
+  "name": "Site 463",
+  "host": "bmroshpina.co.il"
+},
+{
+  "name": "Site 464",
+  "host": "www.bmroshpina.co.il"
+},
+{
+  "name": "Site 465",
+  "host": "ifilter.me"
+},
+{
+  "name": "Site 466",
+  "host": "www.ifilter.me"
+},
+{
+  "name": "Site 467",
+  "host": "yesmalot.co.il"
+},
+{
+  "name": "Site 468",
+  "host": "www.yesmalot.co.il"
+},
+{
+  "name": "Site 469",
+  "host": "yad2.co.il"
+},
+{
+  "name": "Site 470",
+  "host": "www.yad2.co.il"
+},
+{
+  "name": "Site 471",
+  "host": "oref.org.il"
+},
+{
+  "name": "Site 472",
+  "host": "www.oref.org.il"
+},
+{
+  "name": "Site 473",
+  "host": "mail.google.com"
+},
+  {
+    "name": "Site 474",
     "host": "login.microsoftonline.com"
   }
 ]
