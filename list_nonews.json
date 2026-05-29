@@ -1862,5 +1862,13 @@
   {
     "name": "Site 474",
     "host": "login.microsoftonline.com"
-  }
+  },
+{
+  "name": "Site 475",
+  "host": "koshernet.github.io"
+},
+{
+  "name": "Site 476",
+  "host": "www.koshernet.github.io"
+}
 ]
